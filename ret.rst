@@ -1,0 +1,32 @@
+Ret
+---
+.. line-block::
+   Alkoholiseret.
+   Buldret.
+   Chokeret.
+   Dyret.
+   Ejakuleret.
+   Fåret.
+   Generet.
+   Horet.
+   Irriteret.
+   Jamret.
+   Kopuleret.
+   Legaliseret.
+   Mudret.
+   Normaliseret.
+   Omskåret.  
+   Passiviseret.
+   Quislingiseret.
+   Reguleret.
+   Smadret.
+   Tatoveret.
+   Urineret.
+   Vaccineret.
+   Wattmetret.
+   Xylograferet.
+   Ytret.
+   Zefyret.
+   Æstimeret.
+   Økonomiseret.
+   Åbenbaret.
