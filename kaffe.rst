@@ -28,7 +28,7 @@ Kaffe
    ind i kroppen,
    via munden,
    gennem struben
-   forbi klappen,
+   forbi klappen
    som lukker for luftrøret,
    videre ned til mavesækken,
    hvor den sætter sig på væggene,
@@ -42,14 +42,33 @@ Kaffe
    AIDS
    infektioner
    eller lungebetændelse,
-   men noget andet og uforstående,
+   men noget andet
+   og stadig uforstående.
    
-   Kun få minutter senere,
+   Kun få minutter senere
    forsvinder hovedpinen.
 
-   Få minutter senere
+   Kun få minutter senere
+   får koffeinen musklerne
+   omkring tyktarmen
+   til at trække sig sammen.
+
+   Kun få minutter senere
+   føler jeg en trang.
+
+   Kun få minutter senere
    bliver jeg lige så vågen
    som jeg ville have været
    hvis jeg ikke drak kaffe
    hver eneste Satans,
    føking dag.
+
+   Tak Gud,
+   for at du har skænket os
+   denne dejlige,
+   Satans
+   last,
+   som jeg lovpriser.
+
+   Uden ironi:
+   Tak.
