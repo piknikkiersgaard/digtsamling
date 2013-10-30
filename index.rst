@@ -41,3 +41,4 @@
 .. include:: og_jay.rst
 .. include:: oev.rst
 .. include:: pi.rst
+.. include:: samtale.rst
