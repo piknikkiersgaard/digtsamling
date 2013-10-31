@@ -42,3 +42,4 @@
 .. include:: oev.rst
 .. include:: pi.rst
 .. include:: samtale.rst
+.. include:: hottentotten.rst
