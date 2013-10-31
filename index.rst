@@ -45,3 +45,4 @@
 .. include:: hottentotten.rst
 .. include:: transseksuelt.rst
 .. include:: safiren.rst
+.. include:: ekstremt.rst
