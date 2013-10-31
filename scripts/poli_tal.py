@@ -4,13 +4,16 @@ import logging
 # Define the logger
 LOG = logging.getLogger(__name__)
 
-def create_poem(name, start_index, stop_index, number_of_entries_per_line, separator):
+def create_poem(name, start_index, stop_index, number_of_entries_per_line, separator, replace_str):
     LOG.debug("%s %i %i"%(name, start_index, stop_index))
 
     word_count = 0
     line = ''
     for i in range(start_index, stop_index+1):
-        line += "%s%s%s"%(name, separator, i)
+        if replace_str != None:
+            line += "%s"%(name.replace(replace_str, str(i)))
+        else:
+            line += "%s%s%s"%(name, separator, i)
         line += ", " if i != stop_index else "."
         word_count += 1
         if word_count%number_of_entries_per_line == 0:
@@ -42,6 +45,11 @@ if __name__ == "__main__":
                          , default=1
                          , help='Start index. Number at the first entry. If not set, starting from 1, e.g. Nimbus 1.'
                          )
+    parser.add_argument( '--replace'
+                         , type=str
+                         , help='String to replace. Every occurance of the string will be replaced. E.g. the replace string is [X] and the number (index) is 8, the name h[X]nt[X] will become h8nt8en.'
+                         )
+
     parser.add_argument( '--separator'
                          , type=str
                          , default=" "
@@ -72,4 +80,4 @@ if __name__ == "__main__":
     # Output what is in the args variable.                                                                                                                                                                                                    
     LOG.debug(args)
 
-    create_poem(args.name, args.start_index, args.stop_index, args.number_of_entries_per_line, args.separator)
+    create_poem(args.name, args.start_index, args.stop_index, args.number_of_entries_per_line, args.separator, args.replace )

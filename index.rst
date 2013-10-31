@@ -43,3 +43,4 @@
 .. include:: pi.rst
 .. include:: samtale.rst
 .. include:: hottentotten.rst
+.. include:: transseksuelt.rst
