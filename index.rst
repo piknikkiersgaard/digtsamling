@@ -44,3 +44,4 @@
 .. include:: samtale.rst
 .. include:: hottentotten.rst
 .. include:: transseksuelt.rst
+.. include:: safiren.rst
