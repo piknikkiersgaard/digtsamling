@@ -11,7 +11,7 @@ Nadesjda og Goliat
    Sidst jeg så et billede af hende,
    lignede hun stadig en sveske,
    du ved, sådan en som man,
-   hvis hun 
+   hvis hun ellers var med på den,
    ikke ville have sagt nej til at kneppe.
 
    De spillede bare lidt

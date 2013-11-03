@@ -6,5 +6,5 @@ index.rst:
 	find . -type f \( -iname "*.rst" ! -iname "index.rst" \) -exec echo ".. include::" {} \; > index.rst
 
 clean:
-	rm *.rst~
+	rm index.rst index.pdf *.rst~
 
