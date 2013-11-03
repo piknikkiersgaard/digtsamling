@@ -46,3 +46,4 @@
 .. include:: transseksuelt.rst
 .. include:: safiren.rst
 .. include:: ekstremt.rst
+.. include:: vaekst.rst
