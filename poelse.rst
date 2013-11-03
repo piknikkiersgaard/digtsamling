@@ -21,7 +21,9 @@ Pølse
    Nogen putter også dressing eller syltede agurker på pølsen.
    Eller ved pølsen.
 
-   I Norge og Sverige smører man den
+   I nogle lande
+   som vi normalt sammenligner os med,
+   smører man den
    ind i rejesalat
    inden man putter den i munden.
    Det er noget jeg aldrig rigtig har forstået.
