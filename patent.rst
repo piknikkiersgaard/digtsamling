@@ -13,7 +13,7 @@ Patent
    Men nej.
    Det var for sent.
    Nu vil det koste,
-   en sum penge
+   et flercifret tal
    med enheden €, $, £, eller krone,
    at de ikke havde tænkt så langt
    den gang,
@@ -36,7 +36,7 @@ Patent
    fratage andre
    retten til at benytte et navn,
    med mindre de betaler
-   en sum penge
+   et flercifret tal
    med enheden €, $, £ eller krone.
    Og det var det de havde gjort.
    De andre.
