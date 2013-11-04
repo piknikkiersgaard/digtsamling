@@ -1,40 +1,44 @@
 Patent
 ------
 .. line-block::
-   Angela Merkel mærkede tydelig
+   Angela Merkel mærkede tydeligt
    at det gjorde ondt,
    at det sviede blidt,
    da hun opdagede
-   at de havde taget patent
+   at de andre havde taget patent
    på hendes navn.
 
-   Det var mine forældres idé, sagde hun.
+   Mit navn var mine forældres idé først, sagde hun.
 
-   Men nej.
-   Det var for sent.
-   Nu vil det koste,
+   Men nej,
+   det var for sent.
+   Nu ville det koste,
    et flercifret tal
    med enheden €, $, £, eller krone,
-   at de ikke havde tænkt så langt
+   at forældrene ikke havde tænkt så langt
    den gang,
    efter juli i 1954.
 
-   Det var deres idé først, sagde hun.
+   Men det VAR virkelig mine forældres idé først, sagde hun.
 
-   Men det var for sent.
-   Glem det!
-   De skulle have registreret det
-   først.
+   Hahahaha!, sagde de andre!
+   For det var for sent.
+   Glem det unge dame, sagde de andre!
+   Forældrene havde måske idéen først,
+   men de var ikke de første som registrerede,
+   og betalte for at registrere,
+   at de havde haft idéen først.
    
-   Man kan ikke bare tage patent på et navn, sagde hun.
+   De andre kan da ikke bare sådan tage patent på et navn, sagde hun.
 
-   Nej, måske ikke.
-   Men man kan,
-   hvis man vil,
+   Nej, det kan de andre måske ikke.
+   Men de andre kan,
+   hvis de vil,
+   og har penge nok,
    på andet vis,
    op til flere vis,
-   fratage andre
-   retten til at benytte et navn,
+   fratage andre retten
+   til at benytte et navn,
    med mindre de betaler
    et flercifret tal
    med enheden €, $, £ eller krone.
