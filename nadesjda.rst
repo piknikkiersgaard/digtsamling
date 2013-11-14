@@ -24,6 +24,24 @@ Nadesjda og Goliat
    tror vi, at den store leder skulle se dem,
    endte med at hendes barn ikke må se hende.
 
+   Hun nægtede at spise.
+   Men så blev politimanden sur.
+   Han sendte hende til Sibirien.
+
+   Vi hørte ikke noget fra hende i lang tid.
+   Men så havde hendes ægtemand,
+   som hun jo ville have været utro imod,
+   hvis hun havde kneppet med mig,
+   talt med hende.
+   
+   Hun befandt hun sig på et tuberkulosehostipal.
+   Der var dejligt at være.
+   For "dejlig" er jo en relativ størrelse,
+   på størrelse med "behagelig".
+   Bare jeg fik kneppet hende.
+   I fissen.
+   Det ville være OK.
+
    Men det er jo ikke endt endnu.
    Det som kunne have endt i en stor sejr
    for alle parter,
