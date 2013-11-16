@@ -11,9 +11,12 @@ Vores formål
    Vi ved at det vil ske.
    Vi ved det.
    Det sker sikkert dagligt,
+   andre steder,
    i verdensrummet.
-   At solen vokser,
-   At vandet fordamper,
+   At solen vokser.
+   At det bliver varmere.
+   At det meste levende dør.
+   At vandet fordamper.
    At alt liv går til grunde.
    At solen sluger hele jorden.
    At alle spor af mennesket forsvinder,
@@ -95,14 +98,23 @@ Vores formål
 
    Vores fokus er et andet sted.
 
-   Men det betyder intet alligevel.
+   Men det betyder alligevel intet.
    Sådan er det bare.
    Så ubetydelige er vi.
 
    Med mindre vi faktisk kommer videre.
    Får spredt livet,
    til universets rekursive, runde hjørner,
-   måske uden at vide det.
+   måske uden at vide det,
+   eller aktivt invaderer de andre planeter,
+   og fortrænger det eksisterende liv,
+   eller lever side om side med dem,
+   i harmoni,
+   de andre væsner,
+   bakterier,
+   liv,
+   en eller anden form for liv.
+
    Ja, så betyder det hele noget,
    alligevel,
    igen.
