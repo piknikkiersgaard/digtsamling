@@ -32,6 +32,12 @@ Hitler, tanker om
 
    Det uforståelige.
 
+   At jeg er for ung.
+   For ung til at forstå.
+   For ung til at udtale mig.
+
+   For gammel til at provokere.
+
    Og så blev det hele
    meningsløst.
    Formålsløst.
