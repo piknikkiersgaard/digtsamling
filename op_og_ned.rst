@@ -2,14 +2,15 @@ Op og ned
 ---------
 .. line-block::
    Det går op og ned
+   fremad og tilbage
 
    Fra oplysning og fornyelse
    til mørklægning og kontrol
 
-   Krig afløses af fred
-   Demokrati af diktatur
+   Krig bliver til fred
+   Demokrati til diktatur
 
+   Sådan gik det dengang
    Sådan går det nu
-   Sådan må det gå
 
-   Frem og tilbage
+   Frem og tilbage og frem og tilbage ...
